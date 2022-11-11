@@ -67,8 +67,6 @@
 
 
 
-# Product Landing Page
-
 
 
 ## Online shop  Web
