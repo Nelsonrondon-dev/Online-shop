@@ -86,11 +86,11 @@
 
 ## Screenshots Project
 
-![Landing](https://stupefied-kepler.143-198-236-91.plesk.page/img/landing/shop.png)
+![Landing](https://nelson-dev.tech/img/landing/shop.png)
 
-![cart](https://stupefied-kepler.143-198-236-91.plesk.page/img/carrito.png)
+![cart](https://nelson-dev.tech/img/carrito.png)
 
-![checkout](https://stupefied-kepler.143-198-236-91.plesk.page/img/finalizar-compra.png)
+![checkout](https://nelson-dev.tech/img/finalizar-compra.png)
 
 
 ## Used By
